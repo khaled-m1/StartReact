@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #f8ead8;
+  font-family: 'Tajawal', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sectionOne {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px;
+}
+.App::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.App h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sectionOne img {
+  width: 400px;
+  height: 400px;
+}
+.sectionOne p {
+  font-size: 15px;
+}
+
