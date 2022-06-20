@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Cat Store
+
+![cat1](https://user-images.githubusercontent.com/71227623/174662504-f3e966d3-fbef-429a-8364-20e26dab1f12.png)
+
+-----------------------------------------------------
+
 ## Available Scripts
 
 In the project directory, you can run:
